@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Cyan Ding and I code primarily in Kotlin, developing Android apps. I am interested in a variety of programming subjects, including:
-- Machine learning
+My name is Cyan Ding and here are my interests:
+- Machine learning and agentic systems
 - Competitive programming
-- Multiplatform app development
+- Multiplatform app development 
