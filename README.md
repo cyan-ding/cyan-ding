@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Cyan Ding and here are my interests:
-- Machine learning and agentic systems
-- Competitive programming
-- Multiplatform app development 
+My name is Cyan Ding and I am interested in these:
+- Deep learning in Bio (think Evo 2, Boltz2, RF Diffusion)
+- Browser Agents (currently working on one)
+
+Things I want to get into: AI + Robotics, Crypto, and Quant. 
