@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 My name is Cyan Ding and I am interested in these:
 - Deep learning in Bio (think Evo 2, Boltz2, RF Diffusion)
 - Robotics (think Pi)
-- World models (think Marbel)
+- World models (think Marble)
 - Deep learning in financial modeling (think Kronos)
 
